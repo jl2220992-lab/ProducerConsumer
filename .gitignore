@@ -1,0 +1,11 @@
+﻿# Executable files
+*.exe
+
+# MSVC object files
+*.obj
+
+# Other compiler outputs
+*.pdb
+*.ilk
+*.pch
+*.idb
